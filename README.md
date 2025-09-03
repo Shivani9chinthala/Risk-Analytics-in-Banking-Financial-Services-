@@ -73,7 +73,7 @@ The goal is to **analyze, model, and predict financial risk** to help banks and 
 
 ---
 
-##Run the notebook risk_analytics_notebook.ipynb:
+### 6️⃣ Run the notebook risk_analytics_notebook.ipynb:
 
 *Execute sequentially: Data Loading → Preprocessing → Feature Engineering → Training & Evaluation
 
