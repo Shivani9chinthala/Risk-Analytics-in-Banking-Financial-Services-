@@ -83,7 +83,8 @@ The goal is to **analyze, model, and predict financial risk** to help banks and 
 
 Kaggle: [Risk Analytics in Banking & Financial Services
 ](https://www.kaggle.com?utm_source=chatgpt.com)
-Scikit-learn Documentationhttps://scikit-learn.org?utm_source=chatgpt.com
+
+Scikit-learn Documentation [https://scikit-learn.org?utm_source=chatgpt.com]
 
 👤 Author
 
