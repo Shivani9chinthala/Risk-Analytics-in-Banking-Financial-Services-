@@ -79,3 +79,25 @@ The goal is to **analyze, model, and predict financial risk** to help banks and 
 ```bash
 git clone <your-repo-url>
 cd risk-analytics-banking
+
+#2Install dependencies:
+pip install -r requirements.txt
+
+
+##Run the notebook risk_analytics_notebook.ipynb:
+
+*Execute sequentially: Data Loading → Preprocessing → Feature Engineering → Training & Evaluation
+
+*Trained model saved as risk_model.joblib
+
+🔗 References
+
+Kaggle: [Risk Analytics in Banking & Financial Services
+](https://www.kaggle.com?utm_source=chatgpt.com)
+Scikit-learn Documentationhttps://scikit-learn.org?utm_source=chatgpt.com
+
+👤 Author
+
+Refactored and documented by [shivani chinthala]
+
+Contact: [chinthala.shivani0@gmail.com / (https://github.com/Shivani9chinthala)]
