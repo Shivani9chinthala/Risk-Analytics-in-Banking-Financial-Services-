@@ -98,7 +98,6 @@ Contact: [chinthala.shivani0@gmail.com / (https://github.com/Shivani9chinthala)]
 git clone <your-repo-url>
 cd risk-analytics-banking
 
-exit bash 
 #2Install dependencies:
 pip install -r requirements.txt
 
