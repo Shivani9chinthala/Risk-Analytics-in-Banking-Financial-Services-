@@ -80,6 +80,7 @@ The goal is to **analyze, model, and predict financial risk** to help banks and 
 git clone <your-repo-url>
 cd risk-analytics-banking
 
+exit bash 
 #2Install dependencies:
 pip install -r requirements.txt
 
