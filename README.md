@@ -138,8 +138,8 @@ The project includes:
 ---
 
 ## 📊 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
 
+![Credit Risk Dashboard](./your-image-name.png)
 ---
 
 ## 📊 Key Insights
