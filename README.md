@@ -139,7 +139,7 @@ The project includes:
 
 ## 📊 Dashboard Preview
 
-![Credit Risk Dashboard](./your-image-name.png)
+![Credit Risk Dashboard](./Screenshot%202026-03-15%20161531.png)
 ---
 
 ## 📊 Key Insights
