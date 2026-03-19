@@ -2,21 +2,18 @@
 
 ## 📌 Project Overview
 This project focuses on **credit risk analysis in the banking and financial services domain**.  
-It combines **data analysis, machine learning, and business intelligence** to identify high-risk customers and support data-driven decision-making.
+It combines **Excel, Python, Machine Learning, and Power BI** to analyze customer data, predict loan defaults, and build interactive dashboards for decision-making.
 
-The project includes:
-- 📊 Power BI Dashboard for business insights  
-- 🤖 Machine Learning model for risk prediction  
-- 🐍 Python-based data preprocessing and analysis  
+The project demonstrates an **end-to-end data analytics workflow** from data cleaning to model building and visualization.
 
 ---
 
 ## 🎯 Objectives
 - Analyze customer data to identify **loan default patterns**  
 - Build a **machine learning model** to predict credit risk  
-- Create **interactive dashboards** for business users  
+- Create **interactive dashboards** for business insights  
 - Segment customers based on financial and demographic factors  
-- Support **better credit approval decisions**  
+- Support **data-driven credit decision making**  
 
 ---
 
@@ -36,25 +33,26 @@ The project includes:
 ## ⚙️ End-to-End Workflow
 
 ### 🔹 1. Data Cleaning & Preparation (Excel)
-- Cleaned raw dataset in Excel  
-- Handled missing values and inconsistencies  
-- Created derived columns:
+- Cleaned raw dataset using **Microsoft Excel**  
+- Handled missing values and inconsistent data  
+- Created derived analytical columns:
   - Age (from DAYS_BIRTH)  
   - Age Group  
   - Income Band  
   - Credit-Income Ratio  
   - Ratio Band  
+- Structured dataset for further analysis  
 
 ---
 
 ### 🔹 2. Data Analysis & Visualization (Power BI)
-- Imported cleaned dataset into Power BI  
-- Created measures using DAX:
+- Imported cleaned dataset into **Power BI**  
+- Created DAX measures:
   - Total Customers  
   - Total Defaults  
   - Default Rate (%)  
 
-- Built interactive dashboard with:
+- Built an **interactive dashboard** with:
   - KPI Cards  
   - Slicers (Gender, Age Group, Income Band, Contract Type)  
   - Charts:
@@ -76,7 +74,7 @@ The project includes:
   - `days_employed_abs`  
   - `income_per_person`  
 - Converted categorical variables for preprocessing  
-- Improved data quality for modeling  
+- Improved dataset quality for modeling  
 
 ---
 
@@ -108,7 +106,6 @@ The project includes:
 ### 🔹 6. Model Evaluation
 
 📊 Performance Metrics:
-
 - Accuracy: 70%  
 - Precision:
   - Class 0: 0.97  
@@ -132,13 +129,12 @@ The project includes:
 ---
 
 ### 🔹 7. Model Saving
-- Saved trained model using **joblib**
+- Saved trained model using **joblib**  
 - File: `risk_model.joblib`
 
 ---
 
 ## 📊 Dashboard Preview
-
 ![Credit Risk Dashboard](./Screenshot%202026-03-15%20161531.png)
 ---
 
@@ -151,11 +147,11 @@ The project includes:
 ---
 
 ## 🛠️ Tech Stack
+- Microsoft Excel  
 - Python  
 - Pandas / NumPy  
 - Scikit-learn  
 - Power BI  
-- Excel  
 - DAX  
 - Matplotlib / Seaborn  
 
@@ -198,5 +194,3 @@ https://github.com/Shivani9chinthala/Risk-Analytics-in-Banking-Financial-Service
 **Shivani Chinthala**  
 📧 chinthala.shivani0@gmail.com  
 🔗 https://github.com/Shivani9chinthala
-
-
